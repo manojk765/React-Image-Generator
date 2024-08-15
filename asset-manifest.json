@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Image-Generator/static/css/main.31c32301.css",
+    "main.js": "/React-Image-Generator/static/js/main.7859d23e.js",
+    "index.html": "/React-Image-Generator/index.html",
+    "main.31c32301.css.map": "/React-Image-Generator/static/css/main.31c32301.css.map",
+    "main.7859d23e.js.map": "/React-Image-Generator/static/js/main.7859d23e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31c32301.css",
+    "static/js/main.7859d23e.js"
+  ]
+}
